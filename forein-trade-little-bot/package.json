@@ -1,0 +1,16 @@
+{
+  "name": "foreign-trade-little-bot",
+  "version": "1.0.0",
+  "description": "Create a smart bot for slack channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "thien",
+  "license": "ISC",
+  "dependencies": {
+    "slack-bot": "^1.1.5",
+    "slackbots": "^1.2.0"
+  }
+}
